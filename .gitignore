@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.analysis-venv/
+.DS_Store
+results/concurrency_cases_with_features.csv

@@ -1,0 +1,5 @@
+held_out_group,selected_threshold,inner_macro_f1,inner_overrides,heldout_overrides,heldout_true_concurrency,heldout_true_async,heldout_other_classes
+1,0.65,0.6953840240222803,14,0,0,0,0
+2,0.95,0.682432942542137,7,2,0,2,0
+3,0.7,0.6687147055809032,14,1,1,0,0
+4,0.9,0.6802489499098594,7,1,1,0,0
